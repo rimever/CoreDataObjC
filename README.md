@@ -1,0 +1,2 @@
+# CoreDataObjC
+ObjectiveCのCoreDataの習作
